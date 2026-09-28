@@ -1,5 +1,5 @@
 ## my-lab-practical
-SQL injection Authentication bypass lab -manual  payload ,burp suite on kali linux 
+SQL injection Authentication bypass lab -manual  payload ,Burp suite on kali linux 
 
 # SQLi practice - authentication Bypass 
 this rep documents my hands-on SQL injection lab focused on authentication bypass.
